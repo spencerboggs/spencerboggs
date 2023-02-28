@@ -2,6 +2,8 @@
 
 I'm an 18-year-old programmer who is enthusiastic about software development and backend engineering. I'm currently searching for internships or part-time work to help me build experience and skills in order to prepare for a career in this field. I am eager to contribute to the tech industry and to learn from more experienced professionals.
 
+[My Personal Projects](https://github.com/Spinny2005?tab=repositories&type=source)
+
 ---
 
 ## Tools and Languages
