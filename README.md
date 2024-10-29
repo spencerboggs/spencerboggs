@@ -3,9 +3,11 @@
 I'm an 19-year-old programmer who is enthusiastic about software development and backend engineering. I'm currently searching for internships or part-time work to help me build experience and skills in order to prepare for a career in this field. I am eager to contribute to the tech industry and to learn from more experienced professionals.
 [Learn More](https://spencerboggs.github.io)
 
+<!---
 This GitHub account is for my professional projects.
 To see my personal projects 
 [click here](https://github.com/Spinny2005?tab=repositories&type=source).
+--->
 
 ---
 
