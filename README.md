@@ -11,6 +11,7 @@ To see my personal projects
 
 ---
 
+<!---
 ## Tools and Languages
 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="VsCode" width="30px" style="padding-right:9px;" src="icons/1.png"/></a>
 <a href="https://www.jetbrains.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="JetBrains" width="30px" style="padding-right:9px;" src="icons/2.png"/></a>
@@ -30,3 +31,4 @@ To see my personal projects
 <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Linux" width="30px" src="icons/16.png"/></a>
 
 <br />
+--->
