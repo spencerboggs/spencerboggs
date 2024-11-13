@@ -1,13 +1,17 @@
-# Spencer Boggs
+# Hi, I'm Spencer Boggs
 
 I'm an 19-year-old programmer who is enthusiastic about software development and backend engineering. I'm currently searching for internships or part-time work to help me build experience and skills in order to prepare for a career in this field. I am eager to contribute to the tech industry and to learn from more experienced professionals.
 [Learn More](https://spencerboggs.github.io)
 
-<!---
-This GitHub account is for my professional projects.
-To see my personal projects 
-[click here](https://github.com/Spinny2005?tab=repositories&type=source).
---->
+<!--
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=My+Github+Stats&disable_animations=true&card_width=500&include_all_commits=true&theme=dark&hide_border=true&bg_color=000000&hide_rank=true&hide=stars#gh-dark-mode-only)](https://github.com/spencerboggs?tab=repositories#gh-dark-mode-only)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=My+Github+Stats&disable_animations=true&card_width=500&include_all_commits=true&theme=default&hide_border=true&bg_color=000000&hide_rank=true&hide=stars#gh-light-mode-only)](https://github.com/spencerboggs?tab=repositories#gh-light-mode-only)
+-->
+
+<!--
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=My+Languages&langs_count=20&disable_animations=true&card_width=500&include_all_commits=true&theme=dark&hide_border=true&bg_color=000000&hide_rank=true#gh-dark-mode-only)](https://github.com/spencerboggs?tab=repositories#gh-dark-mode-only)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=My+Languages&langs_count=20&disable_animations=true&card_width=500&include_all_commits=true&theme=default&hide_border=true&bg_color=000000&hide_rank=true#gh-light-mode-only)](https://github.com/spencerboggs?tab=repositories#gh-light-mode-only)
+-->
 
 ---
 
@@ -29,6 +33,11 @@ To see my personal projects
 <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Arduino" width="30px" style="padding-right:9px;" src="icons/14.png"/></a>
 <a href="https://www.raspberrypi.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="RaspberryPI" width="30px" style="padding-right:9px;" src="icons/15.png"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Linux" width="30px" src="icons/16.png"/></a>
-
 <br />
+--->
+
+<!---
+This GitHub account is for my professional projects.
+To see my personal projects 
+[click here](https://github.com/Spinny2005?tab=repositories&type=source).
 --->
