@@ -3,15 +3,15 @@
 I'm an 19-year-old programmer who is enthusiastic about software development and backend engineering. I'm currently searching for internships or part-time work to help me build experience and skills in order to prepare for a career in this field. I am eager to contribute to the tech industry and to learn from more experienced professionals.
 [Learn More](https://spencerboggs.github.io)
 
-<!--
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=My+Github+Stats&disable_animations=true&card_width=500&include_all_commits=true&theme=dark&hide_border=true&bg_color=000000&hide_rank=true&hide=stars#gh-dark-mode-only)](https://github.com/spencerboggs?tab=repositories#gh-dark-mode-only)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=My+Github+Stats&disable_animations=true&card_width=500&include_all_commits=true&theme=default&hide_border=true&bg_color=000000&hide_rank=true&hide=stars#gh-light-mode-only)](https://github.com/spencerboggs?tab=repositories#gh-light-mode-only)
--->
+<details>
+  <Summary><b>My Github Stats</b></Summary>
 
-<!--
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=My+Languages&langs_count=20&disable_animations=true&card_width=500&include_all_commits=true&theme=dark&hide_border=true&bg_color=000000&hide_rank=true#gh-dark-mode-only)](https://github.com/spencerboggs?tab=repositories#gh-dark-mode-only)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=My+Languages&langs_count=20&disable_animations=true&card_width=500&include_all_commits=true&theme=default&hide_border=true&bg_color=000000&hide_rank=true#gh-light-mode-only)](https://github.com/spencerboggs?tab=repositories#gh-light-mode-only)
--->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=General+Stats&disable_animations=true&card_width=350&include_all_commits=true&theme=dark&hide_border=true&bg_color=00000000&hide_rank=true&hide=stars&line_height=24#gh-dark-mode-only)](https://github.com/spencerboggs?tab=repositories#gh-dark-mode-only)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=General+Stats&disable_animations=true&card_width=350&include_all_commits=true&theme=default&hide_border=true&bg_color=00000000&hide_rank=true&hide=stars&line_height=24#gh-light-mode-only)](https://github.com/spencerboggs?tab=repositories#gh-light-mode-only)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=Top+Languages&langs_count=20&disable_animations=true&card_width=350&include_all_commits=true&theme=dark&hide_border=true&bg_color=00000000&hide_rank=true#gh-dark-mode-only)](https://github.com/spencerboggs?tab=repositories#gh-dark-mode-only)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=Top+Languages&langs_count=20&disable_animations=true&card_width=350&include_all_commits=true&theme=default&hide_border=true&bg_color=00000000&hide_rank=true#gh-light-mode-only)](https://github.com/spencerboggs?tab=repositories#gh-light-mode-only)
+
+</details>
 
 ---
 
