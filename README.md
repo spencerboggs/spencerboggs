@@ -11,7 +11,22 @@ I'm an 19-year-old programmer who is enthusiastic about software development and
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=Top+Languages&langs_count=20&disable_animations=true&card_width=375&include_all_commits=true&theme=dark&hide_border=true&bg_color=00000000&hide_rank=true#gh-dark-mode-only)](https://github.com/spencerboggs?tab=repositories#gh-dark-mode-only)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=Top+Languages&langs_count=20&disable_animations=true&card_width=375&include_all_commits=true&theme=default&hide_border=true&bg_color=00000000&hide_rank=true#gh-light-mode-only)](https://github.com/spencerboggs?tab=repositories#gh-light-mode-only)
 
+---
+
 </details>
+<details>
+  <summary><b>Featured Projects</b></summary>
+  <br>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spencerboggs&description_lines_count=2&show_owner=true&theme=dark&title_color=ADD8E6&bg_color=00000000&icon_color=ffffff&border_radius=0&repo=clone-all-repos)](https://github.com/spencerboggs/clone-all-repos)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spencerboggs&description_lines_count=2&show_owner=true&theme=dark&title_color=ADD8E6&bg_color=00000000&icon_color=ffffff&border_radius=0&repo=file-tree-explorer)](https://github.com/spencerboggs/file-tree-explorer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spencerboggs&description_lines_count=2&show_owner=true&theme=dark&title_color=ADD8E6&bg_color=00000000&icon_color=ffffff&border_radius=0&repo=github-osint)](https://github.com/spencerboggs/github-osint)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spencerboggs&description_lines_count=2&show_owner=true&theme=dark&title_color=ADD8E6&bg_color=00000000&icon_color=ffffff&border_radius=0&repo=ti-interpreter)](https://github.com/spencerboggs/ti-interpreter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spencerboggs&description_lines_count=2&show_owner=true&theme=dark&title_color=ADD8E6&bg_color=00000000&icon_color=ffffff&border_radius=0&repo=custom-ls)](https://github.com/spencerboggs/custom-ls)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=spencerboggs&description_lines_count=2&show_owner=true&theme=dark&title_color=ADD8E6&bg_color=00000000&icon_color=ffffff&border_radius=0&repo=pong-local-multiplayer)](https://github.com/spencerboggs/pong-local-multiplayer)
+
+</details>
+
 
 ---
 
