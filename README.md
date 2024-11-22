@@ -10,12 +10,11 @@ I'm an 19-year-old programmer who is enthusiastic about software development and
 [![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=spencerboggs&show_icons=true&icon_color=000000&layout=compact&custom_title=General+Stats&disable_animations=true&card_width=300&include_all_commits=true&size_weight=0.5&count_weight=0.5&theme=default&hide_border=true&bg_color=00000000&hide_rank=true&hide=contribs&line_height=24&text_bold=true#gh-light-mode-only)](https://github.com/spencerboggs?tab=repositories#gh-light-mode-only)
 [![Langauge Stats Dark](https://github-readme-stats.vercel.app/api/top-langs?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=Top+Languages&disable_animations=true&card_width=375&include_all_commits=true&theme=dark&hide_border=true&bg_color=00000000&hide_rank=true#gh-dark-mode-only)](https://github.com/spencerboggs?tab=repositories#gh-dark-mode-only)
 [![Language Stats Light](https://github-readme-stats.vercel.app/api/top-langs?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=Top+Languages&disable_animations=true&card_width=375&include_all_commits=true&theme=default&hide_border=true&bg_color=00000000&hide_rank=true#gh-dark-mode-only)](https://github.com/spencerboggs?tab=repositories#gh-light-mode-only)
-
+<!--
 [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spencerboggs&theme=transparent)](https://github.com/spencerboggs?tab=repositories)
+-->
 
-
----
-
+<!--
 </details>
 <details>
   <summary><b>Featured Projects</b></summary>
@@ -35,7 +34,7 @@ I'm an 19-year-old programmer who is enthusiastic about software development and
 [![pong-local-multiplayer Dark](https://github-readme-stats.vercel.app/api/pin/?username=spencerboggs&description_lines_count=2&show_owner=true&theme=dark&title_color=7580e6&bg_color=00000000&icon_color=404040&text_color=404040&border_color=a0a0a0&border_radius=0&repo=pong-local-multiplayer#gh-light-mode-only)](https://github.com/spencerboggs/pong-local-multiplayer#gh-light-mode-only)
 
 </details>
-
+-->
 
 ---
 
