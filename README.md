@@ -3,8 +3,10 @@
 I'm an 19-year-old programmer who is enthusiastic about software development and backend engineering. I'm currently searching for internships or part-time work to help me build experience and skills in order to prepare for a career in this field. I am eager to contribute to the tech industry and to learn from more experienced professionals.
 [Learn More](https://spencerboggs.github.io)
 
+<!--
 <details>
   <Summary><b>My Github Stats</b></Summary>
+-->
 
 [![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=General+Stats&disable_animations=true&card_width=300&include_all_commits=true&size_weight=0.5&count_weight=0.5&theme=dark&hide_border=true&bg_color=00000000&hide_rank=true&hide=contribs&line_height=24&text_bold=true#gh-dark-mode-only)](https://github.com/spencerboggs?tab=repositories#gh-dark-mode-only)
 [![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=spencerboggs&show_icons=true&icon_color=000000&layout=compact&custom_title=General+Stats&disable_animations=true&card_width=300&include_all_commits=true&size_weight=0.5&count_weight=0.5&theme=default&hide_border=true&bg_color=00000000&hide_rank=true&hide=contribs&line_height=24&text_bold=true#gh-light-mode-only)](https://github.com/spencerboggs?tab=repositories#gh-light-mode-only)
