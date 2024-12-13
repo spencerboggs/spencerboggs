@@ -22,8 +22,8 @@ I'm an 19-year-old programmer who is enthusiastic about software development and
 
   <!-- Contribution Graph -->
   <a href="https://github.com/spencerboggs?tab=repositories#gh-dark-mode-only">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=spencerboggs&custom_title=Contribution%20Graph&hide_border=true&bg_color=00000000&line=dddddd&point=ffffff&color=ffffff&title_color=ffffff&area=true" alt="GitHub Activity Graph Dark" width="80%"/></a><a href="https://github.com/spencerboggs?tab=repositories#gh-light-mode-only">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=spencerboggs&custom_title=Contribution%20Graph&hide_border=true&bg_color=00000000&line=121212&point=000000&color=000000&title_color=000000&area=true" alt="GitHub Activity Graph Light" width="80%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=spencerboggs&custom_title=Contribution%20Graph&hide_border=true&bg_color=00000000&line=dddddd&point=ffffff&color=ffffff&title_color=ffffff&area=true&days=20" alt="GitHub Activity Graph Dark" width="80%"/></a><a href="https://github.com/spencerboggs?tab=repositories#gh-light-mode-only">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=spencerboggs&custom_title=Contribution%20Graph&hide_border=true&bg_color=00000000&line=121212&point=000000&color=000000&title_color=000000&area=true&days=20" alt="GitHub Activity Graph Light" width="80%"/>
   </a>
 
 </div>
