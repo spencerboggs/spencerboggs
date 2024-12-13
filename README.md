@@ -6,7 +6,7 @@ I'm an 19-year-old programmer who is enthusiastic about software development and
 <details>
   <Summary><b>My Github Stats</b></Summary>
 
-<div align="center">
+<div align="left">
 
   <!-- General Stats -->
   <a href="https://github.com/spencerboggs?tab=repositories#gh-dark-mode-only">
