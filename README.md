@@ -16,6 +16,9 @@ I'm an 19-year-old programmer who is enthusiastic about software development and
 [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=spencerboggs&theme=transparent)](https://github.com/spencerboggs?tab=repositories)
 -->
 
+[![GitHub Activity Graph Dark](https://github-readme-activity-graph.vercel.app/graph?username=spencerboggs&custom_title=Contribution%20Graph&hide_border=true&bg_color=00000000&line=dddddd&point=ffffff&color=ffffff&title_color=ffffff&area=true)](https://github.com/spencerboggs?tab=repositories#gh-dark-mode-only)
+[![GitHub Activity Graph Light](https://github-readme-activity-graph.vercel.app/graph?username=spencerboggs&custom_title=Contribution%20Graph&hide_border=true&bg_color=00000000&line=121212&point=000000&color=000000&title_color=000000&area=true)](https://github.com/spencerboggs?tab=repositories#gh-light-mode-only)
+
 <!--
 </details>
 <details>
