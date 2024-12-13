@@ -6,30 +6,24 @@ I'm an 19-year-old programmer who is enthusiastic about software development and
 <details>
   <Summary><b>My Github Stats</b></Summary>
 
-<div align="left">
+<div align="center">
 
   <!-- General Stats -->
   <a href="https://github.com/spencerboggs?tab=repositories#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=General+Stats&disable_animations=true&card_width=300&include_all_commits=true&theme=dark&hide_border=true&bg_color=00000000&hide_rank=true&hide=contribs&line_height=24&text_bold=true#gh-dark-mode-only" alt="GitHub Stats Dark" />
-  </a>
-  <a href="https://github.com/spencerboggs?tab=repositories#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=General+Stats&disable_animations=true&card_width=300&include_all_commits=true&theme=dark&hide_border=true&bg_color=00000000&hide_rank=true&hide=contribs&line_height=24&text_bold=true#gh-dark-mode-only" alt="GitHub Stats Dark" /></a><a href="https://github.com/spencerboggs?tab=repositories#gh-light-mode-only">
     <img src="https://github-readme-stats.vercel.app/api?username=spencerboggs&show_icons=true&icon_color=000000&layout=compact&custom_title=General+Stats&disable_animations=true&card_width=300&include_all_commits=true&theme=default&hide_border=true&bg_color=00000000&hide_rank=true&hide=contribs&line_height=24&text_bold=true#gh-light-mode-only" alt="GitHub Stats Light" />
   </a>
 
   <!-- Top Languages -->
   <a href="https://github.com/spencerboggs?tab=repositories#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=Top+Languages&disable_animations=true&card_width=375&include_all_commits=true&theme=dark&hide_border=true&bg_color=00000000&hide_rank=true&size_weight=0.3&count_weight=0.7#gh-dark-mode-only" alt="Language Stats Dark" />
-  </a>
-  <a href="https://github.com/spencerboggs?tab=repositories#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=Top+Languages&disable_animations=true&card_width=375&include_all_commits=true&theme=dark&hide_border=true&bg_color=00000000&hide_rank=true&size_weight=0.3&count_weight=0.7#gh-dark-mode-only" alt="Language Stats Dark" /></a><a href="https://github.com/spencerboggs?tab=repositories#gh-light-mode-only">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=spencerboggs&show_icons=true&icon_color=ffffff&layout=compact&custom_title=Top+Languages&disable_animations=true&card_width=375&include_all_commits=true&theme=default&hide_border=true&bg_color=00000000&hide_rank=true&size_weight=0.3&count_weight=0.7#gh-light-mode-only" alt="Language Stats Light" />
   </a>
 
   <!-- Contribution Graph -->
   <a href="https://github.com/spencerboggs?tab=repositories#gh-dark-mode-only">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=spencerboggs&custom_title=Contribution%20Graph&hide_border=true&bg_color=00000000&line=dddddd&point=ffffff&color=ffffff&title_color=ffffff&area=true&days=20" alt="GitHub Activity Graph Dark" width="800px"/>
-  </a>
-  <a href="https://github.com/spencerboggs?tab=repositories#gh-light-mode-only">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=spencerboggs&custom_title=Contribution%20Graph&hide_border=true&bg_color=00000000&line=121212&point=000000&color=000000&title_color=000000&area=true&days=20" alt="GitHub Activity Graph Light" width="800px"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=spencerboggs&custom_title=Contribution%20Graph&hide_border=true&bg_color=00000000&line=dddddd&point=ffffff&color=ffffff&title_color=ffffff&area=true" alt="GitHub Activity Graph Dark" width="80%"/></a><a href="https://github.com/spencerboggs?tab=repositories#gh-light-mode-only">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=spencerboggs&custom_title=Contribution%20Graph&hide_border=true&bg_color=00000000&line=121212&point=000000&color=000000&title_color=000000&area=true" alt="GitHub Activity Graph Light" width="80%"/>
   </a>
 
 </div>
