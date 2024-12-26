@@ -1,12 +1,5 @@
 # Hi, I'm Spencer Boggs
 
-<!-- Christmas Stuff Start -->
-<h1 align="center"> 🎁🎄 MERRY CHRISTMAS! 🎄🎁 </h1>
-<div align="center"><img width="500px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVjZWhtZ3EybzE5YjY4bmZhMHB4M2RrNjM5OGZkZXduOTY0cmx1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11EEXw1EIEoHaE/giphy.gif"></div>
-
----
-<!-- Christmas Stuff End -->
-
 I'm an 19-year-old programmer who is enthusiastic about software development and backend engineering. I'm currently searching for internships or part-time work to help me build experience and skills in order to prepare for a career in this field. I am eager to contribute to the tech industry and to learn from more experienced professionals.
 [Learn More](https://spencerboggs.github.io)
 
