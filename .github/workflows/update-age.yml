@@ -1,0 +1,30 @@
+name: Update Age in README
+
+on:
+  schedule:
+    - cron: '0 0 3 2 *'
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Update age in README
+        run: |
+          node update-age.js
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update age to reflect birthday"
+          git push
