@@ -2,7 +2,8 @@ name: Update Age in README
 
 on:
   schedule:
-    - cron: '0 0 3 2 *'
+    - cron: '20 22 3 2 *'
+  workflow_dispatch:
 
 jobs:
   update-age:
@@ -22,10 +23,11 @@ jobs:
           node update-age.js
 
       - name: Commit and push changes
+        env:
+          TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git add README.md
-          git commit -m "Update age to reflect birthday"
-          git push
-# Fix this?
+          git commit -m "Update age to reflect birthday" || echo "No changes to commit"
+          git push https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git HEAD:main
