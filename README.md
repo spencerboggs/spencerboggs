@@ -1,6 +1,6 @@
 # Hi, I'm Spencer Boggs
 
-I'm a 21-year-old programmer who is enthusiastic about software and game development. I'm currently searching for internships or part-time work to help me build experience and skills in order to prepare for a career in this field. I am eager to contribute to the tech industry and to learn from more experienced professionals.
+I'm a Computer Science graduate and software developer focused on gameplay programming, multiplayer systems, and game engine architecture. I build projects ranging from interactive web applications and developer tools to real-time multiplayer games and low-level systems programming. My primary languages are C++, C#, JavaScript, and Python, and I am currently developing projects with Unity and Unreal Engine.
 [Learn More](https://spencerboggs.github.io)
 
 <details>
