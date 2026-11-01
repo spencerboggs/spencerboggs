@@ -1,6 +1,6 @@
 # Hi, I'm Spencer Boggs
 
-I'm a Computer Science graduate and software developer focused on gameplay programming, multiplayer systems, and game engine architecture. I build projects ranging from interactive web applications and developer tools to real-time multiplayer games and low-level systems programming. My primary languages are C++, C#, JavaScript, and Python, and I am currently developing projects with Unity and Unreal Engine.
+I'm a computer science graduate from California State University, Long Beach, with experience building web applications, backend systems, desktop software, and interactive games. I'm comfortable working across multiple languages, frameworks, and databases, including gameplay programming and integrating AI where appropriate. I enjoy tackling technical challenges and building practical, reliable software.
 [Learn More](https://spencerboggs.github.io)
 
 <!--
